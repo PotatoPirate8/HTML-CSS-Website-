@@ -170,6 +170,12 @@ header {
   align-items: center;
 }
 
+.middle-content li{
+  list-style: none;
+  padding: 0.5rem;
+  color: #f0f0e6;
+}
+
 .about-content .center-content {
   flex-basis: 100%;
   text-align: center;
